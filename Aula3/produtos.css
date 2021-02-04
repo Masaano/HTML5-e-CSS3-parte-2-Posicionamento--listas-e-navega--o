@@ -43,10 +43,10 @@ nav{
      text-align: center;
      width: 30%;
      vertical-align: top;
-     background-color: gray;
      margin: 0 1.5%;
      padding: 30px 20px;
      box-sizing: border-box;
+     border: 2px solid black;
  }
 
  .product h2{
@@ -61,4 +61,5 @@ nav{
  .product-prize{
      font-size: 22px;
      font-weight: bold;
+     margin-top: 10px;
  }
